@@ -15,6 +15,7 @@ public class Main {
     {
         Card one = new Card();
         System.out.println("Card is a: " + one.getCardValue() + " of " + one.getCardSuit());
+        
     }
 
 }
